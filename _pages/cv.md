@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Computational biology and gut microbiome, University of Groningen, 2019 
+* M.Sc. in Bioinformatics, Universitat Autonoma de Barcelona, 2013
+* B.Sc. in Biology, Universitat Autonoma de Barcelona, 2011
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Grants and awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019  3rd prize for the best published paper in 2018 during the Initiative Crohn’s and Colitis (ICC) day 
+  “Gut microbiota composition and functional changes in inflammatory bowel disease and irritable bowel syndrome”
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2019  Selected top-3 best published papers in 2018 during the Dutch Digestive Days
+  “Gut microbiota composition and functional changes in inflammatory bowel disease and irritable bowel syndrome”
+
+* 2018  Selected top-10 best abstracts in the European Crohn’s & Colitis Organization congress 
+ “The gut microbiome in inflammatory bowel disease and irritable bowel syndrome”
+
+* 2017  Awarded Simons Foundation Fund for scientific visits
+  Internship at the Broad Institute and the Massachusetts Institute of Technology (MIT), Boston, U.S.A
+
+* 2017  Awarded best poster at Radboud New Frontiers Symposium
+  “The gut microbiome in inflammatory bowel disease and irritable bowel syndrome”
+
+* 2016  Awarded Simons Foundation Fund for scientific visits abroad 
+  Strategies and Techniques for Analyzing Microbial Population Structures (STAMPS), The Marine Biological Laboratory, Wood Hole, MA, U.S.A
+
+* 2016  MLDS Award 2016, for paper with greatest impact for gastroenterology patients 
+  “Proton pump inhibitors affect the gut microbiome”
+
+* 2013  Grant for academic internship
+ Becas Santander practicas en PYMES. Santander CRUE CEPYME
+
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Catalan
+* Spanish
+* English
+* Dutch (CEFR B2)
