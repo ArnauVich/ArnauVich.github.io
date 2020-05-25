@@ -4,8 +4,8 @@ collection: teaching
 type: "PhD students"
 permalink: /teaching/2016-microbiome
 venue: "University of Groningen"
-date: 2016
+date: 2016-01-01
 location: "Groningen, The Netherlands"
 ---
 
-Introduction on the use of big data for translational medicine. 
+Tips and tricks for microbiome analysis 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-big-data
 venue: "University of Groningen"
-date: 2017
+date: 2017-01-01
 location: "Groningen, The Netherlands"
 ---
 
