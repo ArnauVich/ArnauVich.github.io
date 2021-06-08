@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arnau Vich Vila / Me and the gut microbiome"
+title                    : "Arnau Vich Vila"
 title_separator          : "-"
 name                     : &name "Arnau Vich Vila"
 description              : &description "Computational biologist"
